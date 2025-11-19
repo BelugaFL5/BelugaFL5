@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelugaFL5&layout=compact&theme=buefy)
 
-![BelugaFL5's github stats](https://github-readme-stats.vercel.app/api?username=sansan0&count_private=true&show_icons=true&count_private=true&theme=buefy)
+![BelugaFL5's github stats](https://github-readme-stats.vercel.app/api?username=BelugaFL5&count_private=true&show_icons=true&count_private=true&theme=buefy)

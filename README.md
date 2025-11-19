@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![sansan0](https://count.getloli.com/get/@sansan0)
+![BelugaFL5](https://count.getloli.com/get/@BelugaFL5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelugaFL5&layout=compact&theme=buefy)
 
-![BelugaFL5's github stats](https://github-readme-stats.vercel.app/api?username=BelugaFL5&count_private=true&show_icons=true&count_private=true&theme=buefy)
+![BelugaFL5's github stats](https://github-readme-stats.vercel.app/api?username=sansan0&count_private=true&show_icons=true&count_private=true&theme=buefy)
